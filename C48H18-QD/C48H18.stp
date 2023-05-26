@@ -37,6 +37,11 @@
       <ID>{C3A7A421-410A-4AA7-9620-3136CCCD1D01}</ID>
       <Paths>1</Paths>
       <URL>.\Str0 DMol3 GeomOpt\Str0.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
     </Document>
     <Document>
       <ID>{8A369386-15C5-4AED-8F31-DE940910D602}</ID>
