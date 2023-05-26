@@ -1,0 +1,30 @@
+====================================================
+                  DMol3 Run Status                  
+====================================================
+ 
+Job Name            :        C55H18O8
+Task                :        Geometry Optimization
+Basis               :        dnp                 
+Atom_Rcut           :        3.700 Angstrom
+Functional          :        pbe                 
+Harris              :        off  
+Integration Grid    :        fine                
+Occupation          :        thermal       0.0050
+Pseudopotential     :        none                
+ 
+Optimization Step   :           18
+ 
+SCF Iteration       :           11
+SCF Energy          :     -1989.4632331 Hartree
+SCF Convergence     :         0.0000006
+ 
+Total Energy        :     -1989.4632273 Hartree
+Energy Change       :        -0.0000204 Hartree
+Max Gradient        :         0.0017273 Ha/Ang
+Max Displacement    :         0.0157740 Angstrom
+ 
+Energy Toler.       :         0.0000100 Hartree
+Gradient Toler.     :         0.0020000 Ha/Ang
+Displacement Toler. :         0.0050000 Angstrom
+ 
+====================================================

@@ -1,0 +1,16 @@
+====================================================
+                  DMol3 Run Status                  
+====================================================
+ 
+Job Name            :        C55H18O8_1
+Task                :        Property
+Basis               :        dnp                 
+Atom_Rcut           :        3.700 Angstrom
+Functional          :        pbe                 
+Harris              :        off  
+Integration Grid    :        fine                
+Occupation          :        fermi     
+Pseudopotential     :        none                
+Property            :        none                
+ 
+====================================================

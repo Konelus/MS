@@ -1,0 +1,19 @@
+====================================================
+                  DMol3 Run Status                  
+====================================================
+ 
+Job Name            :        C55H18O8
+Task                :        Energy
+Basis               :        dnp                 
+Atom_Rcut           :        3.700 Angstrom
+Functional          :        pbe                 
+Harris              :        off  
+Integration Grid    :        fine                
+Occupation          :        fermi     
+Pseudopotential     :        none                
+ 
+SCF Iteration       :           16
+SCF Energy          :     -1989.4606641 Hartree
+SCF Convergence     :         0.0000009
+ 
+====================================================

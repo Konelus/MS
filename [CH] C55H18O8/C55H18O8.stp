@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+  <Version>20.1</Version>
+  <Reference>{C4B614AF-C55D-4155-9257-64DD464A9767}</Reference>
+  <DocumentManager>
+    <Document>
+      <ID>{4D8DEBDF-B06D-4A2B-87C5-8CC6A4012959}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{A202FDF2-EC3F-44F5-91A2-D8DDDF93670D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 1\C55H18O8.input</URL>
+    </Document>
+    <Document>
+      <ID>{4D7E9874-5614-4781-8CAC-A3442EB65988}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 1\C55H18O8.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{4B159C4A-CE61-4E0A-A3CF-AF8C102EF2B1}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 1\C55H18O8.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{DF3EF395-4300-4A71-8D97-763AB6A613C3}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 1\SMDMol3_Extension_C55H18O8.xms</URL>
+    </Document>
+    <Document>
+      <ID>{6B8539E7-EE42-4967-B617-6E8C48C51914}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 1\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{7DBF0D21-1832-40EF-9A13-7B50BEB02542}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 1\C55H18O8 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{555CCEB8-FE3C-4DEB-80A4-9ECFFD882364}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 1\C55H18O8 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{A4B25076-EFE3-4487-A30E-A91654BA1DCF}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 1\C55H18O8.outmol</URL>
+    </Document>
+    <Document>
+      <ID>{0082D03E-E9F1-433F-91C9-E7394DB4472D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 1\C55H18O8 DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{D98287A5-0929-4A2C-8199-E4BC5CC957C8}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 2\C55H18O8.input</URL>
+    </Document>
+    <Document>
+      <ID>{03D54B04-9138-4789-B3BF-97975B37211C}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 2\C55H18O8.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{EACDA431-D717-457E-A1FA-3D67B57F729B}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 2\C55H18O8.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{26DDE10F-458F-4111-B850-4D31DA62D35D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 2\SMDMol3_Extension_C55H18O8.xms</URL>
+    </Document>
+    <Document>
+      <ID>{633B27B3-CC1F-437C-A220-8A9B2682F87B}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 2\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{8895CE96-E5F1-4BB6-BB69-C840A422C30A}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 2\C55H18O8 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{2FD7EC83-CCDB-4AEB-85FE-1EBDD9FC2D65}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 2\C55H18O8 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{B45EF94A-1090-47C6-BBC3-6C0FAC243723}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 2\C55H18O8.outmol</URL>
+    </Document>
+    <Document>
+      <ID>{26FFDE03-7598-4C03-AF38-8B6A04395C55}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 3\C55H18O8.input</URL>
+    </Document>
+    <Document>
+      <ID>{B1C93862-B313-40FF-B19A-1E27FD327C9A}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 3\C55H18O8.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{80AE0261-EDA5-450B-B95D-8B548F670A5A}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 3\C55H18O8.xtd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{DC079F2D-05CA-4C4B-BD3F-1C1FEFE80A8D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 3\SMDMol3_Extension_C55H18O8.xms</URL>
+    </Document>
+    <Document>
+      <ID>{E2DC6264-1387-423F-9B7E-A874B72121DD}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 3\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{CA9D9ECF-02D7-4D94-A35D-60EEA2ECDF3D}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 3\C55H18O8 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{18AADECB-44C2-4409-AA72-4DE11505D3C5}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 3\C55H18O8 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{15406301-31A8-476A-8617-214184C5F603}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 3\C55H18O8.outmol</URL>
+    </Document>
+    <Document>
+      <ID>{B729359D-5D51-4A32-A838-12D4F2902DB5}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 2\C55H18O8 DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{FFF65BED-34C7-4FFA-B5AE-AB8B83197C43}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 3\C55H18O8 DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{8A12BE7B-826B-4CCC-93DA-68776A85B24F}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 4\C55H18O8.input</URL>
+    </Document>
+    <Document>
+      <ID>{189080C8-329A-4D5A-BB60-F8CF56C1018A}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 4\C55H18O8.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{EC3037F2-6E15-4757-A80E-CF6E078A6886}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 4\C55H18O8.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{303A6143-6196-4870-98D2-C13902557509}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 4\SMDMol3_Extension_C55H18O8.xms</URL>
+    </Document>
+    <Document>
+      <ID>{26E08A9B-9904-40A5-87CA-D2C4E06C12B8}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 4\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{7C4DE40C-0F52-4F72-B4B5-A051ABA53CAD}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 4\C55H18O8 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{F2CB202B-400A-438E-970F-E677F2D12417}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 4\C55H18O8 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{BFCC966B-14F6-433A-B141-21D2B1617EBF}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 4\C55H18O8.outmol</URL>
+    </Document>
+    <Document>
+      <ID>{CF367499-ADBB-45CB-B66C-8EC23C0CF047}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 5\C55H18O8.input</URL>
+    </Document>
+    <Document>
+      <ID>{447F7363-C857-40BD-B60F-A3B714FCA331}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 5\C55H18O8.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{117E7634-8557-4FA3-99F9-E101DB97E66C}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 5\C55H18O8.xtd</URL>
+    </Document>
+    <Document>
+      <ID>{C8514FEC-B45B-46E3-BD08-59D32EFAE4E7}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 5\SMDMol3_Extension_C55H18O8.xms</URL>
+    </Document>
+    <Document>
+      <ID>{E12363EE-E1AF-4042-8523-C85688BF412E}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 4\C55H18O8 DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{F9F82E30-30B3-48F5-AE10-64FD34F738BE}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 5\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{6EB071F8-0046-420A-8475-0BC391804B33}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 5\C55H18O8 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{F22DAAFB-3817-4CEA-A5C5-52C7D8491EF1}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 5\C55H18O8 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{69AEF403-C7BE-4A62-9DC2-D1E5359997A3}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 5\C55H18O8.outmol</URL>
+    </Document>
+    <Document>
+      <ID>{C65F50A4-BD99-4F2B-8E3F-A732366672DB}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 5\C55H18O8 DOS.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{2329FD91-0C2C-4036-851A-9944B51A22BB}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 6\C55H18O8.input</URL>
+    </Document>
+    <Document>
+      <ID>{E7E0AF42-2E32-44DA-9627-12231735A815}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 6\C55H18O8.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{2BD3A26D-81BB-4A0A-8069-246C3D18B0AC}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 6\C55H18O8.xtd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{9BC5CFB8-DBA3-48CA-8EDE-36F8415E75CE}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 6\SMDMol3_Extension_C55H18O8.xms</URL>
+    </Document>
+    <Document>
+      <ID>{1B4912B8-AADC-4175-A07D-9CFE84796FC9}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 6\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{D74EC498-318B-4006-9417-0C346DA476C6}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 6\C55H18O8 Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{00B08BB9-C2FF-47FA-9F91-BBAECD2202E0}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 6\C55H18O8 Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{8BD4DAA5-45F1-4A46-99CB-46A591118117}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 6\C55H18O8.outmol</URL>
+    </Document>
+    <Document>
+      <ID>{29A88272-38C7-41DC-84A3-15350902D66A}</ID>
+      <Paths>1</Paths>
+      <URL>.\C55H18O8 DMol3 GeomOpt Ver. 6\C55H18O8 DOS.xcd</URL>
+    </Document>
+  </DocumentManager>
+  <ViewRegistry>
+    <Frame>
+      <Active>false</Active>
+      <Left>55</Left>
+      <Top>27</Top>
+      <Width>1007</Width>
+      <Height>452</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{4D7E9874-5614-4781-8CAC-A3442EB65988}</DocumentID>
+        <Type>SVViewer3D.Viewer3DControl</Type>
+      </View>
+    </Frame>
+    <Frame>
+      <Active>true</Active>
+      <Left>181</Left>
+      <Top>187</Top>
+      <Width>1007</Width>
+      <Height>452</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{4B159C4A-CE61-4E0A-A3CF-AF8C102EF2B1}</DocumentID>
+        <Type>SVViewer3D.Viewer3DControl</Type>
+      </View>
+    </Frame>
+  </ViewRegistry>
+  <DocumentEventManager>
+    <DocumentRelation>
+      <DocRef1>{555CCEB8-FE3C-4DEB-80A4-9ECFFD882364}</DocRef1>
+      <DocRef2>{4B159C4A-CE61-4E0A-A3CF-AF8C102EF2B1}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{4B159C4A-CE61-4E0A-A3CF-AF8C102EF2B1}</DocRef1>
+      <DocRef2>{555CCEB8-FE3C-4DEB-80A4-9ECFFD882364}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{7DBF0D21-1832-40EF-9A13-7B50BEB02542}</DocRef1>
+      <DocRef2>{4B159C4A-CE61-4E0A-A3CF-AF8C102EF2B1}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{4B159C4A-CE61-4E0A-A3CF-AF8C102EF2B1}</DocRef1>
+      <DocRef2>{7DBF0D21-1832-40EF-9A13-7B50BEB02542}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{2FD7EC83-CCDB-4AEB-85FE-1EBDD9FC2D65}</DocRef1>
+      <DocRef2>{EACDA431-D717-457E-A1FA-3D67B57F729B}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{EACDA431-D717-457E-A1FA-3D67B57F729B}</DocRef1>
+      <DocRef2>{2FD7EC83-CCDB-4AEB-85FE-1EBDD9FC2D65}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{8895CE96-E5F1-4BB6-BB69-C840A422C30A}</DocRef1>
+      <DocRef2>{EACDA431-D717-457E-A1FA-3D67B57F729B}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{EACDA431-D717-457E-A1FA-3D67B57F729B}</DocRef1>
+      <DocRef2>{8895CE96-E5F1-4BB6-BB69-C840A422C30A}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{18AADECB-44C2-4409-AA72-4DE11505D3C5}</DocRef1>
+      <DocRef2>{80AE0261-EDA5-450B-B95D-8B548F670A5A}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{80AE0261-EDA5-450B-B95D-8B548F670A5A}</DocRef1>
+      <DocRef2>{18AADECB-44C2-4409-AA72-4DE11505D3C5}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{CA9D9ECF-02D7-4D94-A35D-60EEA2ECDF3D}</DocRef1>
+      <DocRef2>{80AE0261-EDA5-450B-B95D-8B548F670A5A}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{80AE0261-EDA5-450B-B95D-8B548F670A5A}</DocRef1>
+      <DocRef2>{CA9D9ECF-02D7-4D94-A35D-60EEA2ECDF3D}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F2CB202B-400A-438E-970F-E677F2D12417}</DocRef1>
+      <DocRef2>{EC3037F2-6E15-4757-A80E-CF6E078A6886}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{EC3037F2-6E15-4757-A80E-CF6E078A6886}</DocRef1>
+      <DocRef2>{F2CB202B-400A-438E-970F-E677F2D12417}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{7C4DE40C-0F52-4F72-B4B5-A051ABA53CAD}</DocRef1>
+      <DocRef2>{EC3037F2-6E15-4757-A80E-CF6E078A6886}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{EC3037F2-6E15-4757-A80E-CF6E078A6886}</DocRef1>
+      <DocRef2>{7C4DE40C-0F52-4F72-B4B5-A051ABA53CAD}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{F22DAAFB-3817-4CEA-A5C5-52C7D8491EF1}</DocRef1>
+      <DocRef2>{117E7634-8557-4FA3-99F9-E101DB97E66C}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{117E7634-8557-4FA3-99F9-E101DB97E66C}</DocRef1>
+      <DocRef2>{F22DAAFB-3817-4CEA-A5C5-52C7D8491EF1}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{6EB071F8-0046-420A-8475-0BC391804B33}</DocRef1>
+      <DocRef2>{117E7634-8557-4FA3-99F9-E101DB97E66C}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{117E7634-8557-4FA3-99F9-E101DB97E66C}</DocRef1>
+      <DocRef2>{6EB071F8-0046-420A-8475-0BC391804B33}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{881D5E7D-FA5D-41CD-904D-C9BBC5CE746A}</DocRef1>
+      <DocRef2>{FD8624C3-96F6-4134-B5F6-D2177A4C3994}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{FD8624C3-96F6-4134-B5F6-D2177A4C3994}</DocRef1>
+      <DocRef2>{881D5E7D-FA5D-41CD-904D-C9BBC5CE746A}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{A7A39E7C-0833-424D-84FD-A31A406C41AE}</DocRef1>
+      <DocRef2>{FD8624C3-96F6-4134-B5F6-D2177A4C3994}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{FD8624C3-96F6-4134-B5F6-D2177A4C3994}</DocRef1>
+      <DocRef2>{A7A39E7C-0833-424D-84FD-A31A406C41AE}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{00B08BB9-C2FF-47FA-9F91-BBAECD2202E0}</DocRef1>
+      <DocRef2>{2BD3A26D-81BB-4A0A-8069-246C3D18B0AC}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{2BD3A26D-81BB-4A0A-8069-246C3D18B0AC}</DocRef1>
+      <DocRef2>{00B08BB9-C2FF-47FA-9F91-BBAECD2202E0}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{D74EC498-318B-4006-9417-0C346DA476C6}</DocRef1>
+      <DocRef2>{2BD3A26D-81BB-4A0A-8069-246C3D18B0AC}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+    <DocumentRelation>
+      <DocRef1>{2BD3A26D-81BB-4A0A-8069-246C3D18B0AC}</DocRef1>
+      <DocRef2>{D74EC498-318B-4006-9417-0C346DA476C6}</DocRef2>
+      <EHProgID>SMXQMUtilities.ChartTrajectoryEventHandler</EHProgID>
+    </DocumentRelation>
+  </DocumentEventManager>
+</Project>

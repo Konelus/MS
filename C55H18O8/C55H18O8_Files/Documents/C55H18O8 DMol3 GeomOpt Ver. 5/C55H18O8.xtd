@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="latin1"?>
+<!DOCTYPE XSD []>
+<XSD Version="20.1" WrittenBy="Materials Studio 20.1">
+	<AtomisticTreeRoot ID="1" NumProperties="62" NumChildren="151">
+		<Property Name="AngleAxisType" DefinedOn="AngleBetweenPlanesBender" Type="Enumerated"/>
+		<Property Name="AngleEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="BeadDocumentID" DefinedOn="MesoMoleculeSet" Type="String"/>
+		<Property Name="BendBendEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="BendTorsionBendEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="BondEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="EFGAsymmetry" DefinedOn="Atom" Type="Double"/>
+		<Property Name="EFGQuadrupolarCoupling" DefinedOn="Atom" Type="Double"/>
+		<Property Name="ElectrostaticEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="FaceMillerIndex" DefinedOn="GrowthFace" Type="MillerIndex"/>
+		<Property Name="FacetTransparency" DefinedOn="GrowthFace" Type="Float"/>
+		<Property Name="FermiLevel" DefinedOn="ScalarFieldBase" Type="Double"/>
+		<Property Name="Force" DefinedOn="Matter" Type="CoDirection"/>
+		<Property Name="FrameFilter" DefinedOn="Trajectory" Type="String"/>
+		<Property Name="HarmonicForceConstant" DefinedOn="HarmonicRestraint" Type="Double"/>
+		<Property Name="HarmonicMinimum" DefinedOn="HarmonicRestraint" Type="Double"/>
+		<Property Name="HydrogenBondEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="ImportOrder" DefinedOn="Bondable" Type="UnsignedInteger"/>
+		<Property Name="InversionEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="IsBackboneAtom" DefinedOn="Atom" Type="Boolean"/>
+		<Property Name="IsChiralCenter" DefinedOn="Atom" Type="Boolean"/>
+		<Property Name="IsOutOfPlane" DefinedOn="Atom" Type="Boolean"/>
+		<Property Name="IsRepeatArrowVisible" DefinedOn="ElectrodeWire" Type="Boolean"/>
+		<Property Name="KineticEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="LineExtentPadding" DefinedOn="BestFitLineMonitor" Type="Double"/>
+		<Property Name="LinkageGroupName" DefinedOn="Linkage" Type="String"/>
+		<Property Name="ListIdentifier" DefinedOn="PropertyList" Type="String"/>
+		<Property Name="NMRShielding" DefinedOn="Atom" Type="Double"/>
+		<Property Name="NonBondEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="NormalMode" DefinedOn="Bondable" Type="Direction"/>
+		<Property Name="NormalModeFrequency" DefinedOn="Bondable" Type="Double"/>
+		<Property Name="NumScanSteps" DefinedOn="LinearScan" Type="UnsignedInteger"/>
+		<Property Name="OrbitalCutoffRadius" DefinedOn="Bondable" Type="Double"/>
+		<Property Name="PlaneExtentPadding" DefinedOn="BestFitPlaneMonitor" Type="Double"/>
+		<Property Name="PotentialEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="QuantizationValue" DefinedOn="ScalarFieldBase" Type="Double"/>
+		<Property Name="RelativeVelocity" DefinedOn="Matter" Type="Direction"/>
+		<Property Name="RepeatArrowScale" DefinedOn="ElectrodeWire" Type="Float"/>
+		<Property Name="RestraintEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="ScanEnd" DefinedOn="LinearScan" Type="Double"/>
+		<Property Name="ScanStart" DefinedOn="LinearScan" Type="Double"/>
+		<Property Name="SeparatedStretchStretchEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="ServerDipoleMoment" DefinedOn="MatterGroupProperties" Type="Direction"/>
+		<Property Name="SimulationStep" DefinedOn="Trajectory" Type="Integer"/>
+		<Property Name="SpinQuantizationDirection" DefinedOn="Atom" Type="Direction"/>
+		<Property Name="Stiffness" DefinedOn="SymmetryMatterHessian" Type="Matrix6x6"/>
+		<Property Name="StretchBendStretchEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="StretchStretchEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="StretchTorsionStretchEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="Temperature" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="ThreeBodyNonBondEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="TorsionBendBendEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="TorsionEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="TorsionStretchEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="TotalEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="Units" DefinedOn="ScalarFieldBase" Type="String"/>
+		<Property Name="ValenceCrossTermEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="ValenceDiagonalEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="VanDerWaalsEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="_ServerAtomNames" DefinedOn="IndexProvider" Type="String"/>
+		<Property Name="_Stress" DefinedOn="MatterSymmetrySystem" Type="Matrix"/>
+		<Property Name="_TrajectoryStress" DefinedOn="MatterSymmetrySystem" Type="Matrix"/>
+		<Atom3d ID="2" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="29.3810053380738,10.8431398946034,-1.98328147852598" Connections="3,4,5" Components="C"/>
+		<Atom3d ID="6" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="28.1491472029438,12.9724872648351,-1.98328147852598" Connections="7,8,9" Components="C"/>
+		<Atom3d ID="10" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="31.8410033217412,10.8452866483688,-1.98328147852598" Connections="11,12,13" Components="C"/>
+		<Atom3d ID="14" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="30.6091451866111,12.9746340186004,-1.98328147852598" Connections="15,16,17" Components="C"/>
+		<Atom3d ID="18" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="33.0691431702787,12.9767807723657,-1.98328147852598" Connections="19,20,21" Components="C"/>
+		<Atom3d ID="22" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="28.1503866318082,11.5522067667589,-1.98328147852598" Connections="7,4,23" Components="C"/>
+		<Atom3d ID="24" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="30.6103846154755,11.5543535205242,-1.98328147852598" Connections="15,3,12" Components="C"/>
+		<Atom3d ID="25" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="29.3785264803454,13.6837008907559,-1.98328147852598" Connections="8,17,26" Components="C"/>
+		<Atom3d ID="27" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="33.0703825991427,11.5565002742895,-1.98328147852598" Connections="19,11,28" Components="C"/>
+		<Atom3d ID="29" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="31.8385244640127,13.6858476445212,-1.98328147852598" Connections="16,20,30" Components="C"/>
+		<Bond ID="3" UserID="2" Connects="2,24"/>
+		<Bond ID="4" UserID="2" Connects="2,22"/>
+		<Bond ID="7" UserID="2" Connects="6,22"/>
+		<Bond ID="8" UserID="2" Connects="6,25"/>
+		<Bond ID="11" UserID="2" Connects="10,27" Type="Aromatic"/>
+		<Bond ID="12" UserID="2" Connects="10,24" Type="Aromatic"/>
+		<Bond ID="15" UserID="2" Connects="14,24" Type="Aromatic"/>
+		<Bond ID="16" UserID="2" Connects="14,29" Type="Aromatic"/>
+		<Bond ID="17" UserID="2" Connects="14,25" Type="Aromatic"/>
+		<Bond ID="19" UserID="2" Connects="18,27" Type="Aromatic"/>
+		<Bond ID="20" UserID="2" Connects="18,29" Type="Aromatic"/>
+		<Atom3d ID="31" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="24.4810053380738,10.8431398946034,-1.98328147852598" Connections="32,33,34" Components="C"/>
+		<Atom3d ID="35" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="23.2491472029438,12.9724872648351,-1.98328147852598" Connections="36,37,38" Components="C"/>
+		<Atom3d ID="39" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="26.9410033217412,10.8452866483688,-1.98328147852598" Connections="40,23,41" Components="C"/>
+		<Atom3d ID="42" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="25.7091451866111,12.9746340186004,-1.98328147852598" Connections="43,44,45" Components="C"/>
+		<Atom3d ID="46" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="23.2503866318082,11.5522067667589,-1.98328147852598" Connections="36,33,47" Components="C"/>
+		<Atom3d ID="48" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="25.7103846154755,11.5543535205242,-1.98328147852598" Connections="43,32,40" Components="C"/>
+		<Atom3d ID="49" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="24.4785264803454,13.6837008907559,-1.98328147852598" Connections="37,45,50" Components="C"/>
+		<Atom3d ID="51" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="26.9385244640127,13.6858476445212,-1.98328147852598" Connections="44,9,52" Components="C"/>
+		<Bond ID="32" UserID="2" Connects="31,48" Type="Aromatic"/>
+		<Bond ID="33" UserID="2" Connects="31,46"/>
+		<Bond ID="36" UserID="2" Connects="35,46"/>
+		<Bond ID="37" UserID="2" Connects="35,49" Type="Aromatic"/>
+		<Bond ID="40" UserID="2" Connects="39,48" Type="Aromatic"/>
+		<Bond ID="43" UserID="2" Connects="42,48" Type="Aromatic"/>
+		<Bond ID="44" UserID="2" Connects="42,51"/>
+		<Bond ID="45" UserID="2" Connects="42,49" Type="Aromatic"/>
+		<Bond ID="9" Connects="6,51"/>
+		<Bond ID="23" Connects="22,39" Type="Double"/>
+		<Atom3d ID="53" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="26.9491472029438,15.1724872648351,-1.98328147852598" Connections="54,52,55" Components="C"/>
+		<Atom3d ID="56" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="29.4091451866111,15.1746340186004,-1.98328147852598" Connections="57,58,26" Components="C"/>
+		<Atom3d ID="59" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="31.8691431702787,15.1767807723657,-1.98328147852598" Connections="60,30,61" Components="C"/>
+		<Atom3d ID="62" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="28.1785264803454,15.8837008907559,-1.98328147852598" Connections="54,58,63" Components="C"/>
+		<Atom3d ID="64" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="30.6385244640127,15.8858476445212,-1.98328147852598" Connections="57,60,65" Components="C"/>
+		<Bond ID="54" UserID="2" Connects="53,62" Type="Double"/>
+		<Bond ID="57" UserID="2" Connects="56,64"/>
+		<Bond ID="58" UserID="2" Connects="56,62"/>
+		<Bond ID="60" UserID="2" Connects="59,64"/>
+		<Bond ID="52" Connects="51,53" Type="Double"/>
+		<Bond ID="26" Connects="56,25"/>
+		<Bond ID="30" Connects="59,29"/>
+		<Atom3d ID="66" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="30.7384739796657,16.8826717677763,-1.98319132517313" Connections="65" Components="H"/>
+		<Bond ID="65" Connects="64,66"/>
+		<Atom3d ID="67" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="28.1810053380738,8.64313989460341,-1.98328147852598" Connections="68,69,70" Components="C"/>
+		<Atom3d ID="71" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="30.6410033217412,8.64528664836881,-1.98328147852598" Connections="72,73,74" Components="C"/>
+		<Atom3d ID="75" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="26.9503866318082,9.35220676675891,-1.98328147852598" Connections="69,76,41" Components="C"/>
+		<Atom3d ID="77" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="29.4103846154755,9.35435352052421,-1.98328147852598" Connections="68,73,5" Components="C"/>
+		<Atom3d ID="78" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="31.8703825991427,9.35650027428951,-1.98328147852598" Connections="72,13,79" Components="C"/>
+		<Bond ID="68" UserID="2" Connects="67,77"/>
+		<Bond ID="69" UserID="2" Connects="67,75" Type="Double"/>
+		<Bond ID="72" UserID="2" Connects="71,78" Type="Double"/>
+		<Bond ID="73" UserID="2" Connects="71,77"/>
+		<Atom3d ID="80" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="23.2810053380738,8.64313989460341,-1.98328147852598" Connections="81,82,83" Components="C"/>
+		<Atom3d ID="84" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="25.7410033217412,8.64528664836881,-1.98328147852598" Connections="85,76,86" Components="C"/>
+		<Atom3d ID="87" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="22.0503866318082,9.35220676675891,-1.98328147852598" Connections="82,88,89" Components="C"/>
+		<Atom3d ID="90" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="24.5103846154755,9.35435352052421,-1.98328147852598" Connections="81,85,34" Components="C"/>
+		<Bond ID="81" UserID="2" Connects="80,90"/>
+		<Bond ID="82" UserID="2" Connects="80,87"/>
+		<Bond ID="85" UserID="2" Connects="84,90" Type="Double"/>
+		<Bond ID="76" Connects="75,84"/>
+		<Bond ID="13" Connects="78,10"/>
+		<Bond ID="41" Connects="75,39"/>
+		<Bond ID="34" Connects="90,31"/>
+		<Atom3d ID="91" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="22.0503866318082,10.7522067667589,-1.98328147852598" Connections="47,88,92,93" Components="C"/>
+		<Bond ID="47" Connects="91,46"/>
+		<Bond ID="88" Connects="91,87"/>
+		<Bond ID="5" Connects="2,77"/>
+		<Atom3d ID="94" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="29.2735044906705,6.26783204998803,-1.98328147852598" Connections="95,96,97" Components="C"/>
+		<Atom3d ID="98" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="31.7335024743379,6.26997880375343,-1.98328147852598" Connections="99,100,101" Components="C"/>
+		<Atom3d ID="102" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="28.0428857844049,6.97689892214353,-1.98328147852598" Connections="96,103,70" Components="C"/>
+		<Atom3d ID="104" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="30.5028837680722,6.97904567590883,-1.98328147852598" Connections="95,100,74" Components="C"/>
+		<Atom3d ID="105" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="32.9628817517394,6.98119242967413,-1.98328147852598" Connections="99,106,107" Components="C"/>
+		<Bond ID="95" UserID="2" Connects="94,104"/>
+		<Bond ID="96" UserID="2" Connects="94,102" Type="Double"/>
+		<Bond ID="99" UserID="2" Connects="98,105"/>
+		<Bond ID="100" UserID="2" Connects="98,104"/>
+		<Atom3d ID="108" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="24.3735044906705,6.26783204998803,-1.98328147852598" Connections="109,110,111" Components="C"/>
+		<Atom3d ID="112" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="26.8335024743379,6.26997880375343,-1.98328147852598" Connections="113,103,114" Components="C"/>
+		<Atom3d ID="115" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="23.1428857844049,6.97689892214353,-1.98328147852598" Connections="110,83,116" Components="C"/>
+		<Atom3d ID="117" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="25.6028837680722,6.97904567590883,-1.98328147852598" Connections="109,113,86" Components="C"/>
+		<Bond ID="109" UserID="2" Connects="108,117" Type="Aromatic"/>
+		<Bond ID="110" UserID="2" Connects="108,115" Type="Aromatic"/>
+		<Bond ID="113" UserID="2" Connects="112,117"/>
+		<Bond ID="103" Connects="102,112"/>
+		<Bond ID="83" Connects="80,115" Type="Double"/>
+		<Bond ID="86" Connects="84,117"/>
+		<Bond ID="70" Connects="67,102"/>
+		<Bond ID="74" Connects="71,104"/>
+		<Atom3d ID="118" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="33.0959530361363,8.40272753750603,-1.98337163187794" Connections="79,106,119" Components="C"/>
+		<Bond ID="79" Connects="118,78"/>
+		<Bond ID="106" Connects="118,105" Type="Double"/>
+		<Atom3d ID="120" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="27.9637070870696,4.00603919672833,-1.89644408126566" Connections="121,122,123" Components="C"/>
+		<Atom3d ID="124" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="30.4237050707369,4.00818595049363,-1.89644408126566" Connections="125,126,127" Components="C"/>
+		<Atom3d ID="128" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="29.1930863644712,4.71725282264913,-1.89644408126566" Connections="121,126,97" Components="C"/>
+		<Atom3d ID="129" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="31.6530843481383,4.71939957641443,-1.89644408126566" Connections="125,101,130" Components="C"/>
+		<Bond ID="121" UserID="2" Connects="120,128"/>
+		<Bond ID="125" UserID="2" Connects="124,129" Type="Aromatic"/>
+		<Bond ID="126" UserID="2" Connects="124,128" Type="Aromatic"/>
+		<Atom3d ID="131" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="26.7530843481385,4.71939957641443,-1.89644408126566" Connections="122,114,132" Components="C"/>
+		<Bond ID="122" Connects="120,131"/>
+		<Bond ID="114" Connects="112,131" Type="Double"/>
+		<Bond ID="97" Connects="94,128"/>
+		<Bond ID="101" Connects="98,129" Type="Double"/>
+		<Atom3d ID="133" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="32.5883542527644,15.785977133594,-1.98939519061528" Connections="61" Components="H"/>
+		<Bond ID="61" Connects="133,59"/>
+		<Atom3d ID="134" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="34.0703825991427,11.5565002742895,-1.98328147852598" Connections="28" Components="H"/>
+		<Bond ID="28" Connects="134,27"/>
+		<Atom3d ID="135" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="33.8913794072354,13.4763942917774,-1.99009860565926" Connections="21" Components="H"/>
+		<Bond ID="21" Connects="135,18"/>
+		<Atom3d ID="136" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="33.9087604244601,8.80885844499156,-1.98744743993747" Connections="119" Components="H"/>
+		<Bond ID="119" Connects="136,118"/>
+		<Atom3d ID="137" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="33.6439735753355,6.39105132891597,-1.97770868653603" Connections="107" Components="H"/>
+		<Bond ID="107" Connects="137,105"/>
+		<Atom3d ID="138" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="32.5307976294394,4.21661018017084,-1.8895368011907" Connections="130" Components="H"/>
+		<Bond ID="130" Connects="138,129"/>
+		<Atom3d ID="139" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="30.3860906510307,3.02881272335352,-1.88565911112821" Connections="127" Components="H"/>
+		<Bond ID="127" Connects="139,124"/>
+		<Atom3d ID="140" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="27.9356224863721,3.13829486768874,-1.88858073670515" Connections="123" Components="H"/>
+		<Bond ID="123" Connects="140,120"/>
+		<Atom3d ID="141" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="26.1316558633378,4.07060008484273,-1.89106940748438" Connections="132" Components="H"/>
+		<Bond ID="132" Connects="141,131"/>
+		<Atom3d ID="142" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="24.345419889973,5.40008772094844,-1.97541813396547" Connections="111" Components="H"/>
+		<Bond ID="111" Connects="142,108"/>
+		<Atom3d ID="143" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="28.2076207679824,16.814962754696,-1.99294789008435" Connections="63" Components="H"/>
+		<Bond ID="63" Connects="143,62"/>
+		<Atom3d ID="144" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="26.2690650662872,15.8261459004938,-1.99065733751379" Connections="55" Components="H"/>
+		<Bond ID="55" Connects="144,53"/>
+		<Atom3d ID="145" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="24.5076207679824,14.614962754696,-1.99294789008435" Connections="50" Components="H"/>
+		<Bond ID="50" Connects="145,49"/>
+		<Atom3d ID="146" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="22.3501064055364,13.0328289229906,-1.98499439217394" Connections="38" Components="H"/>
+		<Bond ID="38" Connects="146,35"/>
+		<Atom3d ID="147" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="22.3279114781131,6.53434076105962,-1.98003486212436" Connections="116" Components="H"/>
+		<Bond ID="116" Connects="147,115"/>
+		<Atom3d ID="148" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="21.1704054638456,11.4122171559076,-1.99083764421357" Connections="92" Components="H"/>
+		<Bond ID="92" Connects="148,91"/>
+		<Atom3d ID="149" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="21.2354123239773,8.90964861583843,-1.98003486233749" Connections="89" Components="H"/>
+		<Bond ID="89" Connects="149,87"/>
+		<Atom3d ID="150" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="22.0303330494931,10.6977932157971,-3.52181253898796" Connections="151,93" Components="O"/>
+		<Atom3d ID="152" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="22.3831364633294,11.6621030636519,-3.49414894713123" Connections="151" Components="H"/>
+		<Bond ID="151" Connects="150,152"/>
+		<Bond ID="93" Connects="91,150"/>
+	</AtomisticTreeRoot>
+</XSD>
