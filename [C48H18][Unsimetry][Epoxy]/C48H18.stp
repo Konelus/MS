@@ -493,8 +493,74 @@
       <Paths>1</Paths>
       <URL>.\C48H18O DMol3 GeomOpt\C48H18O.outmol</URL>
     </Document>
+    <Document>
+      <ID>{FE504A92-20EF-4CF2-B5AD-55D5B9369CA1}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18O DMol3 GeomOpt Ver. 5\C48H18O Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{2DFDFAC9-A832-459B-8EB7-3F62B32E0DC4}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18O DMol3 GeomOpt\C48H18O Optical Spectrum.xcd</URL>
+    </Document>
   </DocumentManager>
   <ViewRegistry>
+    <Frame>
+      <Active>false</Active>
+      <Left>0</Left>
+      <Top>0</Top>
+      <Width>1956</Width>
+      <Height>501</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{2894A23B-F758-4CFF-8879-1928E28A47D5}</DocumentID>
+        <Type>SVViewer3D.Viewer3DControl</Type>
+      </View>
+    </Frame>
+    <Frame>
+      <Active>false</Active>
+      <Left>26</Left>
+      <Top>26</Top>
+      <Width>1956</Width>
+      <Height>501</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{FE504A92-20EF-4CF2-B5AD-55D5B9369CA1}</DocumentID>
+        <Type>MaterialsStudio.SMUIVChartViewer.ChartViewer,SMUIVChartViewer</Type>
+      </View>
+    </Frame>
+    <Frame>
+      <Active>false</Active>
+      <Left>52</Left>
+      <Top>52</Top>
+      <Width>1956</Width>
+      <Height>501</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{31DD0F96-10FB-48AB-BBE4-865A91D4E843}</DocumentID>
+        <Type>SVViewer3D.Viewer3DControl</Type>
+      </View>
+    </Frame>
+    <Frame>
+      <Active>true</Active>
+      <Left>78</Left>
+      <Top>78</Top>
+      <Width>1956</Width>
+      <Height>501</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{2DFDFAC9-A832-459B-8EB7-3F62B32E0DC4}</DocumentID>
+        <Type>MaterialsStudio.SMUIVChartViewer.ChartViewer,SMUIVChartViewer</Type>
+      </View>
+    </Frame>
   </ViewRegistry>
   <DocumentEventManager>
     <DocumentRelation>
