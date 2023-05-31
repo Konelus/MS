@@ -67,6 +67,11 @@
       <ID>{7C0C65AE-808B-4E9E-BE49-0AFB3A23EA6A}</ID>
       <Paths>1</Paths>
       <URL>.\C48H18O DMol3 GeomOpt Ver. 2\C48H18O.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
     </Document>
     <Document>
       <ID>{F73F1802-8D32-429C-AEE1-305BEA9154A1}</ID>
@@ -267,6 +272,11 @@
       <ID>{28FB4EA1-E74D-417E-9679-30D3B5EC15C4}</ID>
       <Paths>1</Paths>
       <URL>.\C48H18O DMol3 GeomOpt Ver. 6\C48H18O.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
     </Document>
     <Document>
       <ID>{175BBE4B-BBD5-4542-A397-F060AE12ABE7}</ID>
@@ -567,6 +577,11 @@
       <ID>{2E02330D-D110-43B6-B815-949C77D345EE}</ID>
       <Paths>1</Paths>
       <URL>.\C48H18O DMol3 GeomOpt\C48H18O DMol3 Energy (Optics 45)\C48H18O.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
     </Document>
     <Document>
       <ID>{8DFB7AFE-A36A-4504-9D96-423498ABB766}</ID>
@@ -877,6 +892,21 @@
       <ID>{003813B6-6569-4C16-ADCA-E80F395753DB}</ID>
       <Paths>1</Paths>
       <URL>.\C48H18O DMol3 GeomOpt Ver. 9\C48H18O DMol3 Energy (Optics 45)\C48H18O Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{1883A239-254E-4211-8D36-B6413D850490}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18O DMol3 GeomOpt Ver. 6\C48H18O Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{035AB598-9DE1-46E9-B5C6-87E45316DC41}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18O DMol3 GeomOpt Ver. 8\C48H18O Optical Spectrum.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{5CE24E18-BC9A-4C89-8C47-28CA168A84E7}</ID>
+      <Paths>1</Paths>
+      <URL>.\C48H18O DMol3 GeomOpt Ver. 9\C48H18O Optical Spectrum.xcd</URL>
     </Document>
   </DocumentManager>
   <ViewRegistry>
