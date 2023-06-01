@@ -115,6 +115,15 @@
 	<PROPERTY NAME="UseSmearing">
 	<VALUE>true</VALUE>
 	</PROPERTY>
+	<PROPERTY NAME="UseCosmo">
+	<VALUE>true</VALUE>
+	</PROPERTY>
+	<PROPERTY NAME="CosmoRSParameterization">
+	<VALUE>1</VALUE>
+	</PROPERTY>
+	<PROPERTY NAME="SmearingValueEnabled">
+	<VALUE>false</VALUE>
+	</PROPERTY>
 	<PROPERTY NAME="DFTDMethod">
 	<VALUE>1</VALUE>
 	</PROPERTY>

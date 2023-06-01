@@ -17,6 +17,11 @@
       <ID>{3448D456-8809-4D33-B0F7-801845CD75CF}</ID>
       <Paths>1</Paths>
       <URL>.\Str1.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
     </Document>
     <Document>
       <ID>{C55B8FA1-F319-4FA0-A7DC-EF7187D44F82}</ID>
@@ -177,6 +182,26 @@
       <ID>{00DFD405-A45F-4613-99C4-47C9D6B896ED}</ID>
       <Paths>1</Paths>
       <URL>.\Str2 DMol3 GeomOpt\Str2.outmol</URL>
+    </Document>
+    <Document>
+      <ID>{68E93DB9-70C6-4B12-8289-E6DBC2FBBBFC}</ID>
+      <Paths>1</Paths>
+      <URL>.\Str3.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
+    </Document>
+    <Document>
+      <ID>{488982CE-64E5-4BE5-8184-88A14A689DD6}</ID>
+      <Paths>1</Paths>
+      <URL>.\Str4.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
     </Document>
   </DocumentManager>
   <ViewRegistry>

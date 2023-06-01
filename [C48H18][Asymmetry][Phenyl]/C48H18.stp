@@ -742,6 +742,11 @@
       <ID>{19D348B9-9D69-4B61-A1A2-00EDFDB00FDD}</ID>
       <Paths>1</Paths>
       <URL>.\C48H18O DMol3 GeomOpt (Ver. 13)\C48H18O.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
     </Document>
     <Document>
       <ID>{883A4CF0-FB60-44CD-9388-027C6A9FDAD9}</ID>
@@ -952,6 +957,11 @@
       <ID>{A318B27F-C6B4-4B59-AB90-3DFE5BB62EEE}</ID>
       <Paths>1</Paths>
       <URL>.\C48H18O DMol3 GeomOpt (Ver. 17)\C48H18O.xsd</URL>
+      <Property>
+        <Name>Visible</Name>
+        <Type>11</Type>
+        <Value>-1</Value>
+      </Property>
     </Document>
     <Document>
       <ID>{6D9B3462-E174-47DA-B9DB-1E6832F7764D}</ID>
@@ -1045,6 +1055,34 @@
     </Document>
   </DocumentManager>
   <ViewRegistry>
+    <Frame>
+      <Active>true</Active>
+      <Left>20</Left>
+      <Top>2</Top>
+      <Width>1030</Width>
+      <Height>482</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{A318B27F-C6B4-4B59-AB90-3DFE5BB62EEE}</DocumentID>
+        <Type>SVViewer3D.Viewer3DControl</Type>
+      </View>
+    </Frame>
+    <Frame>
+      <Active>false</Active>
+      <Left>25</Left>
+      <Top>25</Top>
+      <Width>1042</Width>
+      <Height>525</Height>
+      <Maximized>false</Maximized>
+      <Minimized>false</Minimized>
+      <View>
+        <Active>true</Active>
+        <DocumentID>{19D348B9-9D69-4B61-A1A2-00EDFDB00FDD}</DocumentID>
+        <Type>SVViewer3D.Viewer3DControl</Type>
+      </View>
+    </Frame>
   </ViewRegistry>
   <DocumentEventManager>
     <DocumentRelation>
