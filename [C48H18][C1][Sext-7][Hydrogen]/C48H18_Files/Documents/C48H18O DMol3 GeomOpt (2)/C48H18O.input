@@ -1,0 +1,35 @@
+
+# Task parameters
+Calculate                     optimize
+Opt_energy_convergence        1.0000e-05
+Opt_gradient_convergence      2.0000e-03 A
+Opt_displacement_convergence  5.0000e-03 A
+Opt_iterations                50
+Opt_max_displacement          0.3000 A
+Initial_hessian               improved
+Symmetry                      on
+Max_memory                    8000
+File_usage                    smart
+Scf_density_convergence       1.000000e-06
+Scf_charge_mixing             2.000000e-01
+Scf_spin_mixing               5.000000e-01
+Scf_diis                      6 pulay
+Scf_iterations                250
+
+# Electronic parameters
+Spin_polarization             unrestricted
+Charge                        0
+Basis                         dnp
+basis_version                 basfile_v4.4
+Pseudopotential               none
+Functional                    pbe
+Aux_density                   hexadecapole
+Integration_grid              fine
+Occupation                    thermal 0.0050
+Cutoff_Global                 3.7000 angstrom
+
+# Calculated properties
+Tddft                         12
+Tddft_xc                      alda
+plot_dos                     on
+empty_bands                  12
